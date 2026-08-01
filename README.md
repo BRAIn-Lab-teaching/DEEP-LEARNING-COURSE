@@ -36,9 +36,9 @@
 
 ## Занятия
 
-| Неделя | Тема | Материалы | YouTube | RuTube | ДЗ |
-| ------ | ---- | --------- | ------- | ------ | -- |
-| Лекция 1 | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=T00Z6msrNrk&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq) | [Запись](https://rutube.ru/video/97ee969e52571c50273f2485c3197f09/?playlist=1713055) | |
+| Неделя  | Тема | Материалы | YouTube | RuTube | ДЗ |
+| ------  | ---- | --------- | ------- | ------ | -- |
+| Лекция 1  | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=T00Z6msrNrk&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq) | [Запись](https://rutube.ru/video/97ee969e52571c50273f2485c3197f09/?playlist=1713055) | |
 | Семинар 1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | [Запись](https://www.youtube.com/watch?v=YR_vksAUD1w&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=2) | [Запись](https://rutube.ru/video/b45452caaa444f90341b21c92a1a4d21/?playlist=1713055) | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) | 
 | Лекция 2 | Оптимизаторы | [Конспект](Seminars/03-optimization) | [Запись](https://www.youtube.com/watch?v=4aSRxBG9Fo0&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=3) | [Запись](https://rutube.ru/video/21dc5e4d186833a9866d75fbe36c1f10/?playlist=1713055) | | 
 | Семинар 2 | Автоматическое дифференцирование | [Конспект](Seminars/04-autodiff) | [Запись](https://www.youtube.com/watch?v=qagz1XhhfN0&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=4) | [Запись](https://rutube.ru/video/e3b0f24b151c6e6b045d873f54f8aeb9/?playlist=1713055) | |
