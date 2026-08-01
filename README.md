@@ -38,8 +38,8 @@
 
 | Неделя | Тема | Материалы | YouTube | RuTube | ДЗ |
 | ------ | ---- | --------- | ------- | ------ | -- |
-| Лекция~1 | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | | |
-| Семинар 1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) |
+| Лекция 1 | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=T00Z6msrNrk&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq) | [Запись]() | |
+| Семинар 1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | [Запись](https://www.youtube.com/watch?v=YR_vksAUD1w&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=2) | | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) |
 | Лекция 2 | Оптимизаторы  | [Конспект](Seminars/03-optimization) | | | 
 | Семинар 2 | Автоматическое дифференцирование | [Конспект](Seminars/04-autodiff) | | |
 | Лекция 3 | PyTorch | [Конспект](Seminars/05-pytorch-base) | | [Простейшая нейронная сеть на PyTorch](./Tasks/task1_5/task1_5.ipynb) | 
