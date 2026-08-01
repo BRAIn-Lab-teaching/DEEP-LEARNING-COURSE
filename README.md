@@ -55,19 +55,19 @@
 | Лекция 8 | Трансформеры: теория | [Конспект](Seminars/15-transformers) | [Запись](https://www.youtube.com/watch?v=D2jgrKK_b6M&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=15) | [Запись](https://rutube.ru/video/b8e7f6d7ea55b9506e25e06e8f090f52/?playlist=1713055) | |
 | Семинар 8 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Конспект](Seminars/16-bert-gpt-t5) | [Запись](https://www.youtube.com/watch?v=OoG5rOGW0pE&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=16) | [Запись](https://rutube.ru/video/bc69c39de2f5a18be4d25fcddeb5ca8c/?playlist=1713055) | [Hugging Face NLP](./Tasks/task3_5/task3_5.ipynb) |
 | Лекция 9 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> | [Конспект](Seminars/17-llm) | [Запись](https://www.youtube.com/watch?v=y3WrPuXrYBI&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=17) | [Запись](https://rutube.ru/video/a0932bbbfdcbdbe6372355635dffea7b/?playlist=1713055) | |
-| Семинар 9 | PEFT методы | [Конспект](Seminars/18-peft) | [Запись]() | [Запись]() | |
-| Лекция 10 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/19-audio) | [Запись]() | [Запись]() | [Денойзинг аудио. Conformer]() |
-| Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | [Запись]() | [Запись]() |  |
-| Лекция 11 |<ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul>  | [Конспект](./Seminars/21-3d-nerf) | [Запись]() | [Запись]() | |
-| Семинар 11 | <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Конспект](./Seminars/22-generative-learning-gan) | [Запись]() | [Запись]() | |
-| Лекция 12 | Диффузионные модели | [Запись]() | [Запись]() | [Генерация 3D сцен. pi-GAN]() |
-| Семинар 12 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Конспект](./Seminars/24-gan-practice) |  |  |
-| Лекция 13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul>  | [Конспект](./Seminars/25-multimodal)  |  |  |
-| Семинар 13 | <ul><li>Практика мультимодальных моделей</li><li>CLIP</li><li>LLaVA</li></ul> | [Конспект](./Seminars/26-clip)  |  |  |
-| Лекция 14 | Табличные данные  | [Конспект](./Seminars/27-tabular-dl) |  |  |
-| Семинар 14 | Графовые нейронные сети  | [Конспект](./Seminars/28-graph)  |  |  |
-| Лекция 15 | Непрерывные диффузионные модели и методы ускорения |  |  |  |
-| Семинар 15 | Физически информированные нейронные сети | [Конспект](./Seminars/30-pinn)  |  |  |
+| Семинар 9 | PEFT методы | [Конспект](Seminars/18-peft) | [Запись](https://www.youtube.com/watch?v=pVhWnLX6Lwc&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=18) | [Запись](https://rutube.ru/video/7cc11b9ef575ea52089bb3e57e44f27c/?playlist=1713055) | |
+| Лекция 10 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/19-audio) | [Запись](https://www.youtube.com/watch?v=8yQzXrn2sEY&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=19) | [Запись](https://rutube.ru/video/5da146197bd4ea5ca36954b9b5453fd9/?playlist=1713055) | [Денойзинг аудио. Conformer]() |
+| Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | | [Запись](https://www.youtube.com/watch?v=kO4sznk2D70&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=20) | [Запись](https://rutube.ru/video/875f280140456f4336b434fb7e8aa780/?playlist=1713055) |  |
+| Лекция 11 |<ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul>  | [Конспект](./Seminars/21-3d-nerf) | [Запись](https://www.youtube.com/watch?v=5CfrQKJUq-Y&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=21) | [Запись](https://rutube.ru/video/3faf6f0fe7838e284f222cf8de7b6515/?playlist=1713055) | |
+| Семинар 11 | <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Конспект](./Seminars/22-generative-learning-gan) | [Запись](https://www.youtube.com/watch?v=88o6D8Qs3WU&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=22) | [Запись](https://rutube.ru/video/45006e41b1bad182b5c10aa4934bde56/?playlist=1713055) | |
+| Лекция 12 | Диффузионные модели | | [Запись](https://www.youtube.com/watch?v=gtTZz0SohkI&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=23) | [Запись](https://rutube.ru/video/f703b2b2efe66bf0e7fd30d109e9235c/?playlist=1713055) | [Генерация 3D сцен. pi-GAN]() |
+| Семинар 12 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Конспект](./Seminars/24-gan-practice) | [Запись](https://www.youtube.com/watch?v=7oecZZDvvQc&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=24) | [Запись](https://rutube.ru/video/14756ab549077747e3e2eaf6fb067cf8/?playlist=1713055) | |
+| Лекция 13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | [Конспект](./Seminars/25-multimodal) | [Запись](https://www.youtube.com/watch?v=FCNcAYvr6Eo&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=25) | [Запись](https://rutube.ru/video/325d8a58061bc83296b515b96d7d0f2d/?playlist=1713055) | |
+| Семинар 13 | <ul><li>Практика мультимодальных моделей</li><li>CLIP</li><li>LLaVA</li></ul> | [Конспект](./Seminars/26-clip)  | [Запись](https://www.youtube.com/watch?v=aHLtJNNhl68&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=26) | [Запись](https://rutube.ru/video/e11868d2a6a19a56503e323e42112128/?playlist=1713055) | |
+| Лекция 14 | Табличные данные  | [Конспект](./Seminars/27-tabular-dl) | [Запись]() | [Запись]() | |
+| Семинар 14 | Графовые нейронные сети  | [Конспект](./Seminars/28-graph)  | [Запись]() | [Запись]() | |
+| Лекция 15 | Непрерывные диффузионные модели и методы ускорения |  | [Запись]() | [Запись]() | |
+| Семинар 15 | Физически информированные нейронные сети | [Конспект](./Seminars/30-pinn) | [Запись]() | [Запись]() |  |
 
 
 ## Формат сдачи курса
