@@ -38,29 +38,29 @@
 
 | Неделя | Тема | Материалы | YouTube | RuTube | ДЗ |
 | ------ | ---- | --------- | ------- | ------ | -- |
-| Лекция 1 | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=T00Z6msrNrk&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq) | [Запись]() | |
-| Семинар 1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | [Запись](https://www.youtube.com/watch?v=YR_vksAUD1w&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=2) | | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) |
-| Лекция 2 | Оптимизаторы  | [Конспект](Seminars/03-optimization) | | | 
-| Семинар 2 | Автоматическое дифференцирование | [Конспект](Seminars/04-autodiff) | | |
-| Лекция 3 | PyTorch | [Конспект](Seminars/05-pytorch-base) | | [Простейшая нейронная сеть на PyTorch](./Tasks/task1_5/task1_5.ipynb) | 
-| Семинар 3 | Цикл обучения в PyTorch | [Конспект](Seminars/06-training) | | | | 
-| Лекция 4 | Операция свёртки | [Конспект](Seminars/07-convolution)  | | | 
-| Семинар 4 | Сверточные нейронные сети | [Конспект](Seminars/08-cnn) | | | 
-| Лекция 5 | Задачи компьютерного зрения: детекция, сегментация  | [Конспект](Seminars/09-cv-advanced-tasks) | | [Сегментация изображений](./Tasks/task2/task2.ipynb) | 
-| Семинар 5 | Практика решения задач компьютерного зрения | [Конспект](Seminars/10-cv-practice) | | | 
-| Лекция 6 | <ul><li>Эмбеддинги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](Seminars/11-embedding) |  |  |
-| Семинар 6 | Работа с эмбеддингами | [Конспект](Seminars/12-embedding-practice) |  |  |
-| Лекция 7 | Рекуррентные сети: теория | [Конспект](Seminars/13-rnn) |  | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task3.ipynb) |
-| Семинар 7 | Рекуррентные сети: практика | [Конспект](Seminars/14-rnn-practice) |  |  |
-| Лекция 8 | Трансформеры: теория | [Конспект](Seminars/15-transformers) |  |  |
-| Семинар 8 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Конспект](Seminars/16-bert-gpt-t5) | | [Hugging Face NLP](./Tasks/task3_5/task3_5.ipynb) |
-| Лекция 9 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> | [Конспект](Seminars/17-llm) |  |  |
-| Семинар 9 | PEFT методы | [Конспект](Seminars/18-peft) |  |  |
-| Лекция 10 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/19-audio)  |  | [Денойзинг аудио. Conformer]() |
-| Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> |  |  |  |
-| Лекция 11 |<ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul>  | [Конспект](./Seminars/21-3d-nerf) |  |  |
-| Семинар 11 | <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Конспект](./Seminars/22-generative-learning-gan) |  |  |
-| Лекция 12 | Диффузионные модели |  |  | [Генерация 3D сцен. pi-GAN]() |
+| Лекция 1 | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=T00Z6msrNrk&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq) | [Запись](https://rutube.ru/video/97ee969e52571c50273f2485c3197f09/?playlist=1713055) | |
+| Семинар 1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | [Запись](https://www.youtube.com/watch?v=YR_vksAUD1w&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=2) | [Запись](https://rutube.ru/video/b45452caaa444f90341b21c92a1a4d21/?playlist=1713055) | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) | 
+| Лекция 2 | Оптимизаторы  | [Конспект](Seminars/03-optimization) | [Запись]() | [Запись]() | | 
+| Семинар 2 | Автоматическое дифференцирование | [Конспект](Seminars/04-autodiff) | [Запись]() | [Запись]() | |
+| Лекция 3 | PyTorch | [Конспект](Seminars/05-pytorch-base) | [Запись]() | [Запись]() | [Простейшая нейронная сеть на PyTorch](./Tasks/task1_5/task1_5.ipynb) | 
+| Семинар 3 | Цикл обучения в PyTorch | [Конспект](Seminars/06-training) | [Запись]() | [Запись]() | | 
+| Лекция 4 | Операция свёртки | [Конспект](Seminars/07-convolution) | [Запись]() | [Запись]() | | 
+| Семинар 4 | Сверточные нейронные сети | [Конспект](Seminars/08-cnn) | [Запись]() | [Запись]() | | 
+| Лекция 5 | Задачи компьютерного зрения: детекция, сегментация  | [Конспект](Seminars/09-cv-advanced-tasks) | [Запись]() | [Запись]() | [Сегментация изображений](./Tasks/task2/task2.ipynb) | 
+| Семинар 5 | Практика решения задач компьютерного зрения | [Конспект](Seminars/10-cv-practice) | [Запись]() | [Запись]() | | 
+| Лекция 6 | <ul><li>Эмбеддинги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](Seminars/11-embedding) | [Запись]() | [Запись]() | |
+| Семинар 6 | Работа с эмбеддингами | [Конспект](Seminars/12-embedding-practice) | [Запись]() | [Запись]() | |
+| Лекция 7 | Рекуррентные сети: теория | [Конспект](Seminars/13-rnn) | [Запись]() | [Запись]() | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task3.ipynb) |
+| Семинар 7 | Рекуррентные сети: практика | [Конспект](Seminars/14-rnn-practice) | [Запись]() | [Запись]() | |
+| Лекция 8 | Трансформеры: теория | [Конспект](Seminars/15-transformers) | [Запись]() | [Запись]() | |
+| Семинар 8 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Конспект](Seminars/16-bert-gpt-t5) | [Запись]() | [Запись]() | [Hugging Face NLP](./Tasks/task3_5/task3_5.ipynb) |
+| Лекция 9 | <ul><li>Обучение LLM</li><li>Pre-training</li><li>SFT</li><li>Alignment</li></ul> | [Конспект](Seminars/17-llm) | [Запись]() | [Запись]() | |
+| Семинар 9 | PEFT методы | [Конспект](Seminars/18-peft) | [Запись]() | [Запись]() | |
+| Лекция 10 | <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | [Конспект](./Seminars/19-audio) | [Запись]() | [Запись]() | [Денойзинг аудио. Conformer]() |
+| Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | [Запись]() | [Запись]() |  |
+| Лекция 11 |<ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul>  | [Конспект](./Seminars/21-3d-nerf) | [Запись]() | [Запись]() | |
+| Семинар 11 | <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Конспект](./Seminars/22-generative-learning-gan) | [Запись]() | [Запись]() | |
+| Лекция 12 | Диффузионные модели | [Запись]() | [Запись]() | [Генерация 3D сцен. pi-GAN]() |
 | Семинар 12 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Конспект](./Seminars/24-gan-practice) |  |  |
 | Лекция 13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul>  | [Конспект](./Seminars/25-multimodal)  |  |  |
 | Семинар 13 | <ul><li>Практика мультимодальных моделей</li><li>CLIP</li><li>LLaVA</li></ul> | [Конспект](./Seminars/26-clip)  |  |  |
