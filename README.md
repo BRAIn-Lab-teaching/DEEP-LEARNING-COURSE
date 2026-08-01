@@ -39,7 +39,7 @@
 |  Неделя | Тема | Материалы | YouTube | RuTube | ДЗ |
 |  ------ | ---- | --------- | ------- | ------ | -- |
 | Лекция 1 | Введение в глубокое обучение | [Конспект](Seminars/01-intro) | [Запись](https://www.youtube.com/watch?v=T00Z6msrNrk&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq) | [Запись](https://rutube.ru/video/97ee969e52571c50273f2485c3197f09/?playlist=1713055) | |
-| Семинар&nbsp;1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | [Запись](https://www.youtube.com/watch?v=YR_vksAUD1w&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=2) | [Запись](https://rutube.ru/video/b45452caaa444f90341b21c92a1a4d21/?playlist=1713055) | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) | 
+| Семинар 1 | Инициализация и регуляризация нейросетей | [Конспект](Seminars/02-init-reg) | [Запись](https://www.youtube.com/watch?v=YR_vksAUD1w&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=2) | [Запись](https://rutube.ru/video/b45452caaa444f90341b21c92a1a4d21/?playlist=1713055) | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task1.ipynb) | 
 | Лекция 2 | Оптимизаторы | [Конспект](Seminars/03-optimization) | [Запись](https://www.youtube.com/watch?v=4aSRxBG9Fo0&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=3) | [Запись](https://rutube.ru/video/21dc5e4d186833a9866d75fbe36c1f10/?playlist=1713055) | | 
 | Семинар 2 | Автоматическое дифференцирование | [Конспект](Seminars/04-autodiff) | [Запись](https://www.youtube.com/watch?v=qagz1XhhfN0&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=4) | [Запись](https://rutube.ru/video/e3b0f24b151c6e6b045d873f54f8aeb9/?playlist=1713055) | |
 | Лекция 3 | PyTorch | [Конспект](Seminars/05-pytorch-base) | [Запись](https://www.youtube.com/watch?v=EI-uQ8v9AMU&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=5) | [Запись](https://rutube.ru/video/0232689f7ee0a7cd0c500c001c778a78/?playlist=1713055) | [Простейшая нейронная сеть на PyTorch](./Tasks/task1_5/task1_5.ipynb) | 
@@ -67,7 +67,7 @@
 | Лекция 14 | Табличные данные  | [Конспект](./Seminars/27-tabular-dl) | [Запись](https://www.youtube.com/watch?v=FCNcAYvr6Eo&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=27) | [Запись](https://rutube.ru/video/325d8a58061bc83296b515b96d7d0f2d/?playlist=1713055) | |
 | Семинар 14 | Графовые нейронные сети  | [Конспект](./Seminars/28-graph)  | [Запись](https://www.youtube.com/watch?v=aHLtJNNhl68&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=28) | [Запись](https://rutube.ru/video/e11868d2a6a19a56503e323e42112128/?playlist=1713055) | |
 | Лекция 15 | Непрерывные диффузионные модели и методы ускорения |  | [Запись](https://www.youtube.com/watch?v=QyXBhhH6mCw&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=29) | [Запись](https://rutube.ru/video/83ea26b60c98c7f206aa2aab8e0316a9/?playlist=1713055) | |
-| Семинар 15 | Физически информированные нейронные сети | [Конспект](./Seminars/30-pinn) | [Запись](https://www.youtube.com/watch?v=uYg-DUCexJM&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=30) | [Запись](https://rutube.ru/video/96136eb3f3c8338b6ec6b589fcb68f98/?playlist=1713055) |  |
+| Семинар&nbsp;15 | Физически информированные нейронные сети | [Конспект](./Seminars/30-pinn) | [Запись](https://www.youtube.com/watch?v=uYg-DUCexJM&list=PLUPiJfRFZJSYm1jnKuKOtK8eN3d52v2tq&index=30) | [Запись](https://rutube.ru/video/96136eb3f3c8338b6ec6b589fcb68f98/?playlist=1713055) |  |
 
 
 ## Формат сдачи курса
